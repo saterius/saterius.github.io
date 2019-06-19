@@ -38,7 +38,7 @@ a:link {
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #D4CDDC;
+	color: rgb(196, 192, 0);
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
